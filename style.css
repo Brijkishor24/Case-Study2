@@ -1,0 +1,27 @@
+h1,h2{
+    text-align:center;
+}
+/*style for test-image1*/
+#test-image1,#test-image2,#test-image4,#test-image5,#test-image6,#test-image8,#test-image9,#test-image10 img{
+height:50%;
+width:50%;
+text-align: left;
+}
+#test-image1,#test-image2,#test-image3,#test-image4,#test-image5,#test-image6,#test-image7,#test-image8,#test-image9,#test-image10{
+    background:linear-gradient(#0ce76f 0%,#D192E8 100%);
+    font-size:100%;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom:0;
+    font-size:20px;
+    text-align: center;
+    background-color: wheat;
+    width:100%;
+    color: darkmagenta;
+}
+#test-image3,#test-image7 img{
+   height:50%;
+   width: 50%;
+}
