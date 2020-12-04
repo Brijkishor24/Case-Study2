@@ -2,7 +2,7 @@ h1,h2{
     text-align:center;
 }
 /*style for test-image1*/
-#test-image1,#test-image2,#test-image4,#test-image5,#test-image6,#test-image8,#test-image9,#test-image10 img{
+#test-image2,#test-image4,#test-image5,#test-image6,#test-image8,#test-image9,#test-image10 img{
 height:50%;
 width:50%;
 text-align: left;
@@ -21,7 +21,18 @@ text-align: left;
     width:100%;
     color: darkmagenta;
 }
-#test-image3,#test-image7 img{
+#test-image7 img{
    height:50%;
    width: 50%;
+}
+ul{
+    list-style: none;
+}
+#test-image1 img{
+    height:40%;
+    width: 50%;
+}
+#test-image3 img{
+height:50%;
+width:50%;
 }
